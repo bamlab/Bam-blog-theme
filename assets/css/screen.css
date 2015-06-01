@@ -1047,12 +1047,7 @@ body:not(.post-template) .post-title {
 
 .post-template .post-meta {
     margin: 0;
-}
-
-.post-template .post-date {
-    padding: 0;
-    margin: 0;
-    border: none;
+	margin-top: 7px;
 }
 
 /* Stop elements, such as img wider than the post content, from
