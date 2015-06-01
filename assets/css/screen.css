@@ -538,7 +538,9 @@ body.nav-opened .site-wrapper {
 }
 
 .main-nav .social-icon {
-    font-size: 20px;
+    font-size: 23px;
+    display: inline-block;
+    padding-top: 3px;
 }
 
 .no-cover .main-nav.overlay  a.social-icon,
